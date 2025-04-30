@@ -27,8 +27,3 @@ Setiap model dievaluasi dengan metrik:
 * Akurasi
 * Confusion matrix
 * Kinerja antar kernel
-
-## 👨‍👩‍👧‍👦 **Anggota Kelompok**
-* Samuella Dyas Bejanakasih Pepe - 6162001056
-* Alfonsa Maria - 6162001064
-* Tiara Angelita - 6162001078
